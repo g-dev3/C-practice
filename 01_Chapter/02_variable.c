@@ -32,5 +32,7 @@ int main()
 
     int final_price = 100;
 
+
+    printf("%d",_age);
     return 0;
 }
